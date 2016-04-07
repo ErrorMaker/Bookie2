@@ -7,12 +7,18 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bookie2", "Bookie2\Bookie2.
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug_Ubuntu|Any CPU = Debug_Ubuntu|Any CPU
 		Debug|Any CPU = Debug|Any CPU
+		Release_Ubuntu|Any CPU = Release_Ubuntu|Any CPU
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1BFFEA03-7B83-4A3C-9FDC-EF60C5861298}.Debug_Ubuntu|Any CPU.ActiveCfg = Debug|Any CPU
+		{1BFFEA03-7B83-4A3C-9FDC-EF60C5861298}.Debug_Ubuntu|Any CPU.Build.0 = Debug|Any CPU
 		{1BFFEA03-7B83-4A3C-9FDC-EF60C5861298}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{1BFFEA03-7B83-4A3C-9FDC-EF60C5861298}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1BFFEA03-7B83-4A3C-9FDC-EF60C5861298}.Release_Ubuntu|Any CPU.ActiveCfg = Release|Any CPU
+		{1BFFEA03-7B83-4A3C-9FDC-EF60C5861298}.Release_Ubuntu|Any CPU.Build.0 = Release|Any CPU
 		{1BFFEA03-7B83-4A3C-9FDC-EF60C5861298}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1BFFEA03-7B83-4A3C-9FDC-EF60C5861298}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
